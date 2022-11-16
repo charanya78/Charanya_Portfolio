@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Charanya SK Portfolio</title>
-    <link>https://hugo-profile.netlify.app/tags/</link>
+    <link>https:///charanyask.github.io/tags/</link>
     <description>Recent content in Tags on Charanya SK Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https:///charanyask.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
